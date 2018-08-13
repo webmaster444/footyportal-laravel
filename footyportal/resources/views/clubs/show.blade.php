@@ -31,6 +31,7 @@
 				</div>
 				<div class="col-sm-8">
 					<div class="single-widget">
+						<div id='stacked-bar'></div>
 					</div>
 				</div>
 			</div>		
@@ -59,4 +60,6 @@
 	<script src="/js/alea.min.js" type="text/javascript"></script>
 	<script src="/js/wordcloud.js" type="text/javascript"></script>
 	<script src="/js/show-wordcloud.js" type="text/javascript"></script>	
+	<script src="/js/stackedbarchart.js" type="text/javascript"></script>	
+	<script src="/js/show-stackedbarchart.js" type="text/javascript"></script>
 @endsection

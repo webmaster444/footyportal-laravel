@@ -17,3 +17,9 @@
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
+
+#stacked-bar path.line{
+  fill: none;
+  stroke:blue;
+  stroke-width:2px;
+}

@@ -15,10 +15,6 @@ Route::get('/', function () {
     return View::make('pages.landing');
 });
 
-Route::get('blade', function () {    
-    return View::make('pages.child');
-});
-
 Route::get('about', function () {
 	return View::make('pages.about');    
 });

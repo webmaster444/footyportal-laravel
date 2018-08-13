@@ -20,7 +20,7 @@
 	<div class="container main-menu">
 		<div class="row align-items-center justify-content-between d-flex">
 	      <div id="logo">
-	        <a href="/"><img src="img/footylogo.png" alt="" title="" /></a>
+	        <a href="/"><img src="/img/footylogo.png" alt="" title="" /></a>
 	      </div>
 	      <nav id="nav-menu-container">
 	        <ul class="nav-menu">

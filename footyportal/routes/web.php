@@ -30,3 +30,5 @@ Route::get('contact', function () {
 Route::get('services', function () {
 	return View::make('pages.services');    
 });
+
+Route::resource('clubs', 'ClubController');

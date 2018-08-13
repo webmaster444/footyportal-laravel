@@ -1,12 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Child Page')
-
-@section('sidebar')
-    @parent
-
-    <p>This is appended to the master sidebar.</p>
-@endsection
+@section('title', 'Our Services')
 
 @section('content')
     			<!-- start banner Area -->
@@ -18,7 +12,7 @@
 							<h1 class="text-white">
 								Services				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="services.html"> Services</a></p>
+							<p class="text-white link-nav"><a href="/">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href=""> Services</a></p>
 						</div>	
 					</div>
 				</div>
